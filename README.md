@@ -1,6 +1,6 @@
 # Adya MCP Hackathon Integration Platform 🚀
 
-![Banner](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=ADYA+MCP+Hackathon+2k25) *(Replace with actual project banner)*
+
 
 A comprehensive integration platform for connecting multiple MCP (Model Context Protocol) servers with unified client interfaces.
 
